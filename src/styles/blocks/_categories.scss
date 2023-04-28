@@ -1,9 +1,0 @@
-.categories {
-  &__place {
-    margin-bottom: 40px;
-
-    @include onIpadMini {
-      margin-bottom: 64px;
-    }
-  }
-}
